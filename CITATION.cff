@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated MAST-KAN manuscript."
+type: software
+title: "MAST-KAN: a Domain-Adapted Spectral-Temporal Paradigm for AIS Vessel Trajectory Forecasting"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Liu
+    given-names: Ye
+  - family-names: Xiong
+    given-names: Wei
+  - family-names: Yang
+    given-names: Fei
+  - family-names: Wang
+    given-names: Da
+  - family-names: Wu
+    given-names: Hui
